@@ -12,6 +12,6 @@ spec:
       labels:
         component: worker
     spec:
-      containets:
+      containers:
         - name: worker
           image: varshithknaik/docker-multi-worker
