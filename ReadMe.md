@@ -1,1 +1,1 @@
-
+kubectl get storageclass
